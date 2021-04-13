@@ -10,6 +10,3 @@ Here are some (mundane) stats:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Theory-of-Everything&theme=ayu-mirage&show_icons=true">
 </div>
 <br>
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theory-of-Everything">
-</div>
