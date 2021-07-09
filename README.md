@@ -7,7 +7,7 @@ Languages I have used/learned:
 - C# (most with the Unity Game Engine
 - HTML/CSS
 
-What I am Currenty Learning:
+What I am Currently Learning:
 - C++
 - Rust
 - Shell/POSIX Shell scripting
