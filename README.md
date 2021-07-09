@@ -11,3 +11,8 @@ What I am Currently Learning:
 - C++
 - Rust
 - Shell/POSIX Shell scripting
+
+Other Places you can find me:
+Mastadon: [@TheoryToE@koyu.space](https://koyu.space/@TheoryToE)
+Matrix:   @theory_of_everything:halogen.city
+Discord:  Theory_of_Everything#4163
