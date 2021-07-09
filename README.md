@@ -1,12 +1,13 @@
 ### Eyo There!
 ## I'm The Theory_of_Everything
+Heya, I'm Theory. I'm a Developer, Gamer, Linux Enthusiast and Musician. Most of my time is spent doing school, however when I have time, you can usually find me programming to some degree.
 
-I'm a student by day, and and enthusuast dev and gamer by night.
+Languages I have used/learned:
+- Pythion (although not much anymore)
+- C# (most with the Unity Game Engine
+- HTML/CSS
 
-As you can probably tell, there isn't much here in terms of interesting repos of mine. I have a few interesting projects laying around, but not much.
-
-Here are some (mundane) stats:
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Theory-of-Everything&theme=ayu-mirage&show_icons=true">
-</div>
-<br>
+What I am Currenty Learning:
+- C++
+- Rust
+- Shell/POSIX Shell scripting
