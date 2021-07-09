@@ -13,6 +13,6 @@ What I am Currently Learning:
 - Shell/POSIX Shell scripting
 
 Other Places you can find me:
-Mastadon: [@TheoryToE@koyu.space](https://koyu.space/@TheoryToE)
-Matrix:   @theory_of_everything:halogen.city
-Discord:  Theory_of_Everything#4163
+- Mastadon: [@TheoryToE@koyu.space](https://koyu.space/@TheoryToE)
+- Matrix:   @theory_of_everything:halogen.city
+- Discord:  Theory_of_Everything#4163
