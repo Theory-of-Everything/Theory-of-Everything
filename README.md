@@ -6,7 +6,7 @@ On other notes I enjoy games, mostly indie, but with a few exceptions.
 
 Languages I have used/learned:
 - Pythion (although not much anymore)
-- C# (most with the Unity Game Engine
+- C# (most with the Unity Game Engine)
 - HTML/CSS
 
 What I am Currently Learning:
