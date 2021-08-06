@@ -19,3 +19,6 @@ Other Places you can find me:
 - Mastadon: [@TheoryToE@koyu.space](https://koyu.space/@TheoryToE)
 - Matrix:   @theory_of_everything:halogen.city
 - Discord:  Theory_of_Everything#4163
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
