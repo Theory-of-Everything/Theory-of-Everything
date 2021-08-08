@@ -4,6 +4,10 @@ Heya, I'm Theory. I'm a Developer, Gamer, Linux Enthusiast and Musician. Most of
 
 On other notes I enjoy games, mostly indie, but with a few exceptions.
 
+My Current Active Projects:
+- [nii-nvim](https://github.com/Theory-of-Everything/nii-nvim) a no-nonsense neovim lua configuration
+- [dotfiles](https://github.com/Theory-of-Everything/dotfiles) My Arch system dotfiles
+
 Languages I have used/learned:
 - Pythion (although not much anymore)
 - C# (most with the Unity Game Engine)
@@ -19,5 +23,3 @@ Other Places you can find me:
 - Mastadon: [@TheoryToE@koyu.space](https://koyu.space/@TheoryToE)
 - Matrix:   @theory_of_everything:halogen.city
 - Discord:  Theory_of_Everything#4163
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
