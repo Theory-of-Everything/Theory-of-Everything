@@ -5,8 +5,11 @@ Heya, I'm Theory. I'm a Developer, Gamer, Linux Enthusiast and Musician. Most of
 On other notes I enjoy games, mostly indie, but with a few exceptions.
 
 My Current Active Projects:
-- [nii-nvim](https://github.com/Theory-of-Everything/nii-nvim) a no-nonsense neovim lua configuration
-- [dotfiles](https://github.com/Theory-of-Everything/dotfiles) My Arch system dotfiles
+Project | Description | Current Status
+--------|-------------|---------------
+[nii-nvim](https://github.com/Theory-of-Everything/nii-nvim) | a no-nonsense neovim lua configuration | In development
+[dotfiles](https://github.com/Theory-of-Everything/dotfiles) | My Arch system dotfiles | In devleopment
+[voidbook-dotfiles](https://github.com/Theory-of-Everything/voidbook-dotfiles) | My dotfiles for my (now unused) void system | Finished (pretty much)
 
 Languages I have used/learned:
 - Pythion (although not much anymore)
