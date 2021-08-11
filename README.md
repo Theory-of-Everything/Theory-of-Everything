@@ -11,6 +11,8 @@ Project | Description | Current Status
 [dotfiles](https://github.com/Theory-of-Everything/dotfiles) | My Arch system dotfiles | In devleopment
 [voidbook-dotfiles](https://github.com/Theory-of-Everything/voidbook-dotfiles) | My dotfiles for my (now unused) void system | Finished (pretty much)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theory-of-everything&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+
 Languages I have used/learned:
 - Python (although not much anymore)
 - C# (most with the Unity Game Engine)
