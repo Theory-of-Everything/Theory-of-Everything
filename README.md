@@ -12,7 +12,7 @@ Project | Description | Current Status
 [voidbook-dotfiles](https://github.com/Theory-of-Everything/voidbook-dotfiles) | My dotfiles for my (now unused) void system | Finished (pretty much)
 
 Languages I have used/learned:
-- Pythion (although not much anymore)
+- Python (although not much anymore)
 - C# (most with the Unity Game Engine)
 - HTML/CSS
 
