@@ -21,7 +21,7 @@ Languages I have used/learned:
 
 What I am Currently Learning:
 - C++
-- Rust
+- Haskell
 - Lua (because configs)
 - Shell/POSIX Shell scripting
 
