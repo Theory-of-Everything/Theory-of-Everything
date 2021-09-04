@@ -6,8 +6,8 @@ Heya, I'm Theory. I'm a Developer, Gamer, Linux Enthusiast and Musician. Most of
 
 
 On other notes I enjoy games, mostly indie, but with a few exceptions.
-
 My Current Active Projects:
+
 Project | Description | Current Status
 ------- | ----------- | --------------
 [nii-nvim](https://github.com/Theory-of-Everything/nii-nvim) | a no-nonsense neovim lua configuration | In development
