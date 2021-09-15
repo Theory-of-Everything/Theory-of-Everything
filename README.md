@@ -17,12 +17,13 @@ Project | Description | Current Status
 Languages I have used/learned:
 - Python (although not much anymore)
 - C# (most with the Unity Game Engine)
+- Lua
 - HTML/CSS
 
 What I am Currently Learning:
 - C++
 - Haskell
-- Lua (because configs)
+- Emacs Lisp
 - Shell/POSIX Shell scripting
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theory-of-everything&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
