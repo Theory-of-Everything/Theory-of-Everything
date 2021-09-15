@@ -26,7 +26,7 @@ What I am Currently Learning:
 - Emacs Lisp
 - Shell/POSIX Shell scripting
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theory-of-everything&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theory-of-everything&layout=compact&theme=ayu-mirage)](https://github-readme-stats.vercel.app/api/top-langs/?username=theory-of-everything&layout=compact&theme=ayu-mirage)
 
 Other Places you can find me:
 - Mastadon: [@TheoryToE@koyu.space](https://koyu.space/@TheoryToE)
