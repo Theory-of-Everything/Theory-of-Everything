@@ -11,6 +11,7 @@ My Current Active Projects:
 Project | Description | Current Status
 ------- | ----------- | --------------
 [nii-nvim](https://github.com/Theory-of-Everything/nii-nvim) | a no-nonsense neovim lua configuration | In development
+[snag](https://github.com/Theory-of-Everything/snag) | a simple and minimal zsh "plugin" manager | In devleopment
 [dotfiles](https://github.com/Theory-of-Everything/dotfiles) | My Arch system dotfiles | In devleopment
 [voidbook-dotfiles](https://github.com/Theory-of-Everything/voidbook-dotfiles) | My dotfiles for my (now unused) void system | Finished (pretty much)
 
