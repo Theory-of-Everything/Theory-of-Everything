@@ -27,7 +27,7 @@ What I am Currently Learning:
 - Emacs Lisp
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theory-of-everything&layout=compact&bg_color=2b3339&title_color=a7c080&text_color=d3c6aa&icons_color=d3c6aa&border_color=d3c6aa)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theory-of-everything&layout=compact&bg_color=2b3339&title_color=a7c080&text_color=d3c6aa&icons_color=d3c6aa&border_color=d3c6aa)
 
 Other Places you can find me:
 - Mastadon: [@TheoryToE@koyu.space](https://koyu.space/@TheoryToE)
