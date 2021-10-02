@@ -1,11 +1,8 @@
 ### Eyo There!
-## I'm The Theory_of_Everything
-Heya, I'm Theory. I'm a Developer, Gamer, Linux Enthusiast and Musician. Most of my time is spent doing school, however when I have time, you can usually find me programming to some degree.
-
+## I'm Theory
 ![](https://komarev.com/ghpvc/?username=theory-of-everything&color=green&style=flat-sqaure)
 
-
-On other notes I enjoy games, mostly indie, but with a few exceptions.
+Heya, I'm Theory Student, Devloper and Musician. Most of my time is devoted to studies, however when I have time, you can usually find me programming to some degree (or slacking off and playing games).
 My Current Active Projects:
 
 Project | Description | Current Status
