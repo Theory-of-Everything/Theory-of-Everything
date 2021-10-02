@@ -16,16 +16,19 @@ Project | Description | Current Status
 [voidbook-dotfiles](https://github.com/Theory-of-Everything/voidbook-dotfiles) | My dotfiles for my (now unused) void system | Finished (pretty much)
 
 Languages I have used/learned:
-- Python (although not much anymore)
-- C# (most with the Unity Game Engine)
 - Lua
 - HTML/CSS
+- Shell/POSIX Shell scripting
+
+Languages I know, but haven't used recently:
+- Python (although not much anymore)
+- C# (most with the Unity Game Engine)
 
 What I am Currently Learning:
 - C++
-- Haskell
+- Go
 - Emacs Lisp
-- Shell/POSIX Shell scripting
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theory-of-everything&layout=compact&theme=ayu-mirage)](https://github-readme-stats.vercel.app/api/top-langs/?username=theory-of-everything&layout=compact&theme=ayu-mirage)
 
