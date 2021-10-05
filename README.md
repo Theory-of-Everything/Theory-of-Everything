@@ -26,6 +26,7 @@ What I am Currently Learning:
 - Go
 - Emacs Lisp
 
+All of my major projects are mirrored on [notabug.org](https://notabug.org/Theory_of_Everything)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theory-of-everything&layout=compact&bg_color=2b3339&title_color=a7c080&text_color=d3c6aa&icons_color=d3c6aa&border_color=d3c6aa)
 
