@@ -31,6 +31,7 @@ All of my major projects are mirrored on [notabug.org](https://notabug.org/Theor
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theory-of-everything&layout=compact&bg_color=2b3339&title_color=a7c080&text_color=d3c6aa&icons_color=d3c6aa&border_color=d3c6aa)
 
 Other Places you can find me:
+- My [Website](https://theoryware.net)
 - Mastadon: [@TheoryToE@koyu.space](https://koyu.space/@TheoryToE)
 - Matrix:   @theory_of_everything:halogen.city
 - Discord:  Theory_of_Everything#4163
