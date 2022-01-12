@@ -2,7 +2,7 @@
 ## I'm Theory
 ![](https://komarev.com/ghpvc/?username=theory-of-everything&color=green&style=flat-sqaure)
 
-Heya, I'm Theory Student, Devloper and Musician. Most of my time is devoted to studies, however when I have time, you can usually find me programming to some degree (or slacking off and playing games).
+Heya, I'm Theory, a Student, Devloper and Musician. Most of my time is devoted to studies, however when I have time, you can usually find me programming to some degree (or slacking off and playing games).
 My Current Active Projects:
 
 Project | Description | Current Status
