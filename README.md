@@ -14,16 +14,16 @@ Project | Description | Current Status
 
 Languages I have used/learned:
 - Lua
+- Python
+- Go
 - HTML/CSS
 - Shell/POSIX Shell scripting
 
 Languages I know, but haven't used recently:
-- Python (although not much anymore)
-- C# (most with the Unity Game Engine)
+- C#
 
 What I am Currently Learning:
-- C++
-- Go
+- C
 - Emacs Lisp
 
 All of my major projects are mirrored on [notabug.org](https://notabug.org/Theory_of_Everything)
