@@ -10,7 +10,7 @@ __/___/______
 |_ \__'   \=_=\
 `())--,())'-,,'
 
-User theorytoe
+User ~theorytoe
 git: sr.ht/~theorytoe | git.kyaruc.moe
 lang: C, Go, Python, Lua
 ```
