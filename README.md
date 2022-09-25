@@ -2,4 +2,4 @@
 ### hi
 
 You wont find what you are looking for here. 
-greatness lies here => [find](https://sr.ht/~theorytoe) [greatness](https://codeberg.org/TheoryToE)
+you will instead find it here => [find](https://sr.ht/~theorytoe) [greatness](https://codeberg.org/TheoryToE)
