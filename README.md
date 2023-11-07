@@ -2,4 +2,6 @@
 ### hi
 
 You wont find what you are looking for here. 
-you will instead find it here => [find](https://sr.ht/~theorytoe) [greatness](https://codeberg.org/TheoryToE)
+you will instead find it here => [somewhere](https://codeberg.org/TheoryToE)
+
+systems engineer and embedded programmer (or I think I am anyway)
