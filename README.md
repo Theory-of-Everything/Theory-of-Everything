@@ -9,5 +9,5 @@ You wont find what you are looking for here.
 systems engineer and embedded programmer (or I think I am anyway)
 ```
 
-git => https://gitgud.io/theorytoe
-web => https://theoryware.net
+- git => https://gitgud.io/theorytoe
+- web => https://theoryware.net
